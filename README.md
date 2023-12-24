@@ -1,6 +1,11 @@
-Hello
+# Hello!
+Why hello there fellow travler!
 
-<!---
-wolfieboy09/wolfieboy09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I know stuff really. \
+I need to add more here.
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=Wolfieboy09&layout=compact&show_icons=true&count_private=true" alt="github status"/>
+
+I need to get a better grade
