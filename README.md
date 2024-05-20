@@ -4,6 +4,7 @@
 <h1 align='center'>My Silly Stats</h2>
 <div align='center'>
   <img align='center' src="https://github-readme-stats.vercel.app/api?username=Wolfieboy09&layout=compact&show_icons=true&count_private=true&theme=dark" alt="github status"/>
+  <!--- OPTIONAL: </div><img alt="Static Badge" src="https://img.shields.io/badge/BunnyPad%20Developer%20Code-005-0078d7"> --->
 </div>
 
 <h1 align='center'>Things I know</h1>
@@ -14,7 +15,7 @@
 <div align='center'>
   <img src='https://img.shields.io/badge/-HTML-000000?logo=html5&logoColor=orange&style=for-the-badge'>
   <img src='https://img.shields.io/badge/-JAVASCRIPT-000000?logo=javascript&logoColor=yellow&style=for-the-badge'>
-  <img src'https://img.shields.io/badge/-PYTHON-000000?logo=python&style=for-the-badge'>
+  <img src='https://img.shields.io/badge/-PYTHON-000000?logo=python&style=for-the-badge'>
   <a href='https://scratch.mit.edu/users/wolfieboy09'><img src='https://img.shields.io/badge/-SCRATCH-000000?logo=scratch&logoColor=yellow&style=for-the-badge'></a>
   <img src='https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=red'>
   <img src='https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white'>
