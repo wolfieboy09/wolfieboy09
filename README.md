@@ -4,7 +4,7 @@
 <h1 align='center'>My Silly Stats</h2>
 <div align='center'>
   <img align='center' src="https://github-readme-stats.vercel.app/api?username=Wolfieboy09&layout=compact&show_icons=true&count_private=true&theme=dark" alt="github status"/>
-  <!--- OPTIONAL: </div><img alt="Static Badge" src="https://img.shields.io/badge/BunnyPad%20Developer%20Code-005-0078d7"> --->
+  <div align='center'><img alt="Static Badge" src="https://img.shields.io/badge/BunnyPad%20Developer%20Code-005-0078d7"></div>
 </div>
 
 <h1 align='center'>Things I know</h1>
