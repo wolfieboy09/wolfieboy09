@@ -1,5 +1,6 @@
 <h1 align='center'>Hello!</h2>
 <h3 align='center'><b>Why hello there fellow traveler :D</b></h3>
+<b>My Discord Username: wolfieboy09</b>
 
 <h1 align='center'>My Silly Stats</h2>
 <div align='center'>
