@@ -1,6 +1,7 @@
 <h1 align='center'>Hello!</h2>
 <h3 align='center'><b>Why hello there fellow traveler :D</b></h3>
 <h3 align='center'>My Discord Username: wolfieboy09</h3>
+<h3 align='center'>Discord server I made for everyone https://discord.gg/YES3afRvrx - I'm active here a lot, come chat with me!</h3>
 
 <h1 align='center'>My Silly Stats</h2>
 <div align='center'>
