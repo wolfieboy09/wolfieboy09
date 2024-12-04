@@ -1,5 +1,5 @@
-<h1 align='center'>Hello!</h2>
-<h3 align='center'><b>Why hello there fellow traveler :D</b></h3>
+<h1 align='center'>Welcome welcome</h2>
+<h3 align='center'><b>Why hello there fellow traveler!</b></h3>
 <h3 align='center'>My Discord Username: wolfieboy09</h3>
 <h3 align='center'>My server: https://discord.gg/YES3afRvrx</h3>
 
