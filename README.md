@@ -2,6 +2,7 @@
 <h3 align='center'><b>Why hello there fellow traveler!</b></h3>
 <h3 align='center'>My Discord Username: wolfieboy09</h3>
 <h3 align='center'>My server: https://discord.gg/YES3afRvrx</h3>
+<h3 align='center'>My Website: https://wolfieboy09.github.io/</h3>
 
 <h1 align='center'>My GitHub Stats</h2>
 <div align='center'>
@@ -31,4 +32,5 @@
   <a href='https://www.curseforge.com/members/wolfieboy09/projects'><img src='https://img.shields.io/badge/Curseforge-000000?style=for-the-badge&logo=curseforge&logoColor=red'></a>
 </div>
 
-<div align='center'><a href="https://github.com/GSYT-Productions/BunnyPad-SRC/"><img align='center' src='https://raw.githubusercontent.com/Wolfieboy09/Wolfieboy09/main/BunnyPadDevBadge.png'></a></div>
+<!-- <div align='center'><a href="https://github.com/GSYT-Productions/BunnyPad-SRC/"><img align='center' src='https://raw.githubusercontent.com/Wolfieboy09/Wolfieboy09/main/BunnyPadDevBadge.png'></a></div> -->
+
