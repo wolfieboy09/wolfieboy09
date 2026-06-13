@@ -33,4 +33,6 @@
 </div>
 
 <!-- <div align='center'><a href="https://github.com/GSYT-Productions/BunnyPad-SRC/"><img align='center' src='https://raw.githubusercontent.com/Wolfieboy09/Wolfieboy09/main/BunnyPadDevBadge.png'></a></div> -->
-
+<hr/>
+<a accesskey="r" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"></a>
+<sup>A little easter egg... <kbd>Alt+Shift+R</kbd></sup>
