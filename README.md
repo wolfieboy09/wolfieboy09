@@ -1,12 +1,10 @@
 <h1 align='center'>Welcome welcome</h2>
 <h3 align='center'><b>Why hello there fellow traveler!</b></h3>
-<h3 align='center'>My Discord Username: wolfieboy09</h3>
 <h3 align='center'>My server: https://discord.gg/YES3afRvrx</h3>
 <h3 align='center'>My Website: https://wolfieboy09.github.io/</h3>
 
 <h1 align='center'>My GitHub Stats</h2>
 <div align='center'>
-
   <img align='center' src="https://github-readme-stats.vercel.app/api?username=Wolfieboy09&layout=compact&show_icons=true&count_private=true&theme=dark" alt="github status"/>
 </div>
 
